@@ -23,3 +23,11 @@ https://file-converter.org/
 #
 This customization to Windows 10/11 right-click context menu is an example to indicate file conversion should be included as a default right-click context menu option in future versions of Microsoft Windows.
 #
+
+#
+### Related Links
+
+[Format Developer](https://github.com/sourceduty/Format_Developer)
+
+***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
